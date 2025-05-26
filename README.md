@@ -23,7 +23,7 @@ Spēlei nav konkrēta mērķa, tā ir tikai smilšu kaste.
 - [x] Optimizēt un koriģēt visu funkciju darbību.
 
 # Iespējas
-Spēlē katrā "Nolaižamajā" kategorijā (izņemot Personāžus) ir 4 opcijas, no kurām izvēlēties.
+Spēlē katrā "Dropdown" kategorijā (izņemot Personāžus) ir 4 opcijas, no kurām izvēlēties.
 Varat regulēt mūzikas skaļumu.
 Varat ieslēgt vai izslēgt fonu.
 Jūs varat mainīt izmērus.
